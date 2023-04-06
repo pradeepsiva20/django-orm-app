@@ -42,6 +42,8 @@ class StudentAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
+![1](https://user-images.githubusercontent.com/120539823/230255980-ddb87acb-04bf-410e-9a55-9e6be66b70d3.jpg)
+![2](https://user-images.githubusercontent.com/120539823/230255995-5f6af6e1-6529-4a9e-b346-8a8c3857ab2b.jpg)
 
 
 ## RESULT:
