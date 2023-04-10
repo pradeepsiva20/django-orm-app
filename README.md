@@ -6,6 +6,7 @@ To develop a Django application to store and retrieve data from a database using
 ## Entity Relationship Diagram
 
 Include your ER diagram here
+![entity](https://user-images.githubusercontent.com/120539823/230928210-ba2e7080-1c76-4e5c-bbd9-e7905df14fb1.png)
 
 ## DESIGN STEPS
 
@@ -20,7 +21,7 @@ Modify changes in settings and write ur code on models and admin and run the ser
 
 ## PROGRAM
 
-```
+```python
 from django.db import models
 from django.contrib import admin
 # Create your models here.
@@ -42,8 +43,13 @@ class StudentAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
-![1](https://user-images.githubusercontent.com/120539823/230255980-ddb87acb-04bf-410e-9a55-9e6be66b70d3.jpg)
-![2](https://user-images.githubusercontent.com/120539823/230255995-5f6af6e1-6529-4a9e-b346-8a8c3857ab2b.jpg)
+![Screenshot (138)](https://user-images.githubusercontent.com/120539823/230928444-c076a369-5156-4638-8a66-07b0ee20d498.png)
+##Verifying Primary-Key
+![Screenshot (137)](https://user-images.githubusercontent.com/120539823/230928468-609da2e3-d242-4bd3-a5dd-569d8719d1b0.png)
+
+
+
+
 
 
 ## RESULT:
